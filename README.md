@@ -2,6 +2,9 @@
 
 This is a work-in-progress solution for the [bowling kata](https://learn.madetech.com/katas/bowling/).
 
+Pair programming on 2022/02/23 with Anne-Laure Figer
+
+
 ## Installing dependencies
 
 Use `bundle install` to install required gems.
